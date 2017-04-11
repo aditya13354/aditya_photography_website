@@ -1,0 +1,21 @@
+
+{
+  "name": "aditya_singh_photography_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aditya Singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1",
+    "nodemailer": "^4.0.0",
+    "serve-favicon": "^2.3.0",
+    "slick-carousel": "^1.5.9"
+  }
+}
